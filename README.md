@@ -3,8 +3,8 @@
 A Terraform module to create Fortinet FortiGate firewall device
 on the Equinix platform.
 
-![Terraform status](https://github.com/equinix/terraform-equinix-fortinet/workflows/Terraform/badge.svg)
-![License](https://img.shields.io/github/license/equinix/terraform-equinix-fortinet)
+![Terraform status](https://github.com/equinix/terraform-equinix-fortigate/workflows/Terraform/badge.svg)
+![License](https://img.shields.io/github/license/equinix/terraform-equinix-fortigate)
 
 Supported device modes:
 

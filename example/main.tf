@@ -5,7 +5,7 @@ provider "equinix" {
 
 module "fortigate" {
   source               = "equinix/fortigate/equinix"
-  version              = "1.0.0-beta"
+  version              = "1.0.0"
   byol                 = true
   self_managed         = true
   license_file         = "/tmp/FGVM-pri.lic"
